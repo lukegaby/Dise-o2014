@@ -6,6 +6,12 @@ class Hello {
 		println("Por Sanchez Lucas")
 		println("Hola Mundo")
 		println("Por Scalora Pablo David (KpdsK)")
+		commit(1)
+	}
+
+	def static commit (int numero) {
+	
+	println("prueba commit numero: " + numero)
 	}
 }
 
