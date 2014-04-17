@@ -4,7 +4,7 @@ class Hello {
 	def static void main(String [] args){
 		println("Hola Mundox")
 		println("Por Sanchez Lucas")
-		println("Hola Mundo")
+		println("Hola Mundos")
 		println("Por Scalora Pablo David (KpdsK)")
 		commit(1)
 	}
